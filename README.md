@@ -1,47 +1,56 @@
 # E-Commerce Back-End
-  
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+
+![badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
     ## Table of Contents
-    
-   - * [Description](#Description)
 
-   - * [Installation](#Installation)
+- - [Description](#Description)
 
-   -  * [Usage](#Usage)
+- - [Demo Link](#demo-link)
 
-   - * [Questions](#Questions)
+- - [Installation](#Installation)
 
-   - * [Contributors](#Contributors)
-    
-   - * [Testing](#Testing)
-    
-- * [License](#License)
+- - [Usage](#Usage)
 
-    
+- - [Questions](#Questions)
+
+- - [Contributors](#Contributors)
+
+- - [Testing](#Testing)
+
+- - [License](#License)
+
     ## Description
-    Creating a back-end for an e-commerce site to use Sequelize to interact with a MySql database.
-   
-    ## Installation 
-    use npm install to ensure all proper dependcies are installed. Use command npm run seeds to seed the database and launch the index.js file. 
-    
-    ## Usage
-    personal use only.
-   
-    ## Questions
-      
-    Please reach out if you have any questions regarding this application. 
 
-    * Name - Derek Meduri
-    * Email - derekmeduri@gmail.com
-    * GitHub - [derekmeduri](https://github.com/derekmeduri/)
-    
+    Creating a back-end for an e-commerce site to use Sequelize to interact with a MySql database.
+
+    ## Demo Link
+
+    ## Installation
+
+    use npm install to ensure all proper dependcies are installed. Use command npm run seeds to seed the database and launch the index.js file.
+
+    ## Usage
+
+    personal use only.
+
+    ## Questions
+
+    Please reach out if you have any questions regarding this application.
+
+    - Name - Derek Meduri
+    - Email - derekmeduri@gmail.com
+    - GitHub - [derekmeduri](https://github.com/derekmeduri/)
+    - GitHub Repo -
+
     ## Contributors
+
     n/a
 
     ## Testing
+
     n/a
 
     ## License
+
     Licensed under MIT License.
-    
