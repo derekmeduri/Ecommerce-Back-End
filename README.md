@@ -26,6 +26,8 @@
 
     ## Demo Link
 
+    [Demo Link](https://drive.google.com/file/d/1_z74ZqVePYyHcN5swyOUhwD9h3F8YCoY/view)
+
     ## Installation
 
     use npm install to ensure all proper dependcies are installed. Use command npm run seeds to seed the database and launch the index.js file.
